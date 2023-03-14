@@ -6,7 +6,7 @@
 `a, hoy, ahoy`
 
 - working areas of Java based technologies and Rust
-- contact : [![Linkedin Badge](https://img.shields.io/badge/-burakcekil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burakcekil/)](https://www.linkedin.com/in/burakcekil/) or [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=burakcekil.com&style=flat-square&up_color=green&up_message=up&url=http%3A%2F%2Fburakcekil.com)](https://burakcekil.com)
+- contact : [![Linkedin Badge](https://img.shields.io/badge/-burakcekil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burakcekil/)](https://www.linkedin.com/in/burakcekil/) or [![Website Badge](https://img.shields.io/website?down_color=red&down_message=down&label=burakcekil.com&style=flat-square&up_color=green&up_message=up&url=http%3A%2F%2Fburakcekil.com)](https://burakcekil.com) or other account [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/cekil)
 
 
 `stackshare`
